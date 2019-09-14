@@ -1,0 +1,32 @@
+group: UTEC
+description: Tables from and for the lecture [Databases: Foundations, Data Models and System Concepts - University of Innsbruck](http://dbis-informatik.uibk.ac.at/249-0-VO-Datenbanksysteme.html) chapter 3 
+
+series = {
+nombre, calificacion, terminada
+
+serie, 8, false
+other, 4, true
+her, 7, true
+}
+
+Director = {
+nombre, genero, fnacimiento
+
+qwe, F, 123
+}
+
+egana = {
+pnombre, enombre, snombre
+
+'Mejor episodio', eps, serie
+'Mejor episodio', eps, other
+'Mejor', eps, her
+}
+
+dgana = {
+pnombre, enombre, snombre, dnombre
+
+'Mejor director', eps, serie, qwe
+'Mejor director', eps, other, qwe
+'Mdirec', eps, her, qwe
+}
