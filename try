@@ -1,0 +1,5 @@
+-- π nombre (σ genero = 'F' (Director))
+-- π series.nombre,series.calificacion ((series) ⨝ egana.snombre = series.nombre ∧ egana.pnombre = 'Mejor Episodio' (egana)) - π series.nombre,series.calificacion ((series) ⨝ dgana.snombre = series.nombre ∧ dgana.pnombre = 'Mejor direccion' (dgana))
+-- π snombre, dnombre, sueldo ((Ficcion) ⨝ (dirige))
+-- π dirige.dnombre, dirige.enombre ((dirige) ⨝ dirige.sueldo > x.sueldo (σ dnombre = 'Miguel Sapochn' ∧ enombre = 'The  Winds  of Winter' (ρ x (dirige))))
+π dnombre, enombre, sueldo (dirige) - π dirige.dnombre, dirige.enombre, dirige.sueldo ((dirige) ⨝ dirige.sueldo > x.sueldo (ρ x (dirige)))
