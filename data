@@ -7,6 +7,8 @@ nombre, calificacion, terminada
 serie, 8, false
 other, 4, true
 her, 7, true
+tir, 6, false
+ter, 5, false
 }
 
 Ficcion = {
@@ -19,25 +21,27 @@ ter, false
 Director = {
 nombre, genero, fnacimiento
 
-qwe, F, 123
-tyu, F, 234
+'Miguel  Sapochn', F, 23
+tyu, F, 14
+qwe, M, 34
 }
 
 egana = {
 pnombre, enombre, snombre
 
-'Mejor episodio', eps, serie
-'Mejor episodio', eps, other
-'Mejor', eps, her
+'Mejor Episodio', eps1, serie
+'Mejor', epso, other
+'Mejor Episodio', eps2, tir
+'Mejor', 'The  Winds  of Winter', her
 }
 
 dgana = {
 pnombre, enombre, snombre, dnombre
 
-'Mejor director', eps1, serie, qwe
-'Mejor director', eps, other, qwe
-'Mejor', eps, tir, qwe
-'Mdirec', eps, her, qwe
+'Mejor direccion', eps1, serie, qwe
+'Mejor direccion', epso, other, qwe
+'Mejor', eps2, tir, qwe
+'Mdirec', 'The  Winds  of Winter', her, 'Miguel Sapochn'
 }
 dirige = {
 enombre, snombre, dnombre, sueldo
@@ -45,6 +49,6 @@ enombre, snombre, dnombre, sueldo
 eps1, serie, qwe, 123
 epss, ter, tyu, 423
 eps2, tir, tyu, 489
-epsd, her, qwe, 134
-epso, other, qwe, 334
+'The  Winds  of Winter', her, 'Miguel Sapochn', 134
+epso, other, qwe, 123
 }
