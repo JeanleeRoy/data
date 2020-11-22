@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Proyectos y Emprendimiento",
+    "id": 0,
+    "articles": [
+      {
+        "id": 0,
+        "title": "EdTech: Startups para el futuro",
+        "author": "Alessandra Meza",
+        "date": "25/09/2020",
+        "body": "Existen dos grandes problemáticas en relación a la educación en América Latina. Acorde a Emanuela di Gropello, directora de la práctica regional de Educación en el Banco Mundial, antes de la pandemia:\nLa región enfrentaba una crisis educativa, con muy altos niveles de pobreza de aprendizaje e inequidades persistentes; y en segundo lugar el nivel de conectividad, que si bien es superior al de otras regiones, estaba por debajo de la media. (Banco Mundial, 01 de Junio del 2020)",
+        "img-url": "https://www.revistapiso11.com/img/proyectos-emprendimiento/25-09-20/cover-image.jpeg"
+      },
+      {
+        "id": 1,
+        "title": "El Boom de las asesorías académicas en UTEC",
+        "author": "Albert Callo",
+        "date": "20/09/2020",
+        "body": "El 1 de septiembre me llegó un correo de UCLASS (Ahora llamado E-POWER) ofreciendo paquetes de asesorías académicas; el slogan era “excelentes clases a un buen precio”—desde luego que eso será esclarecido por la comunidad—, pero ahí fue cuando decidí hacer un artículo sobre este llamado —casi forzoso— “Boom de las asesorías académicas en UTEC” porque se sabía que CAPS había retomado las asesorías después de un largo “break” en el 2020-1. Se sabía también que StudyIN era una startup nueva con el mismo propósito, pero que no era tan conocida como sus competidores. Y, evidentemente, se sabía que Luteach estaba dispuesto a seguir creciendo en este 2020-2 después de estar prácticamente solo, aprovechando el mercado en el 2020-1.",
+        "img-url": "https://www.revistapiso11.com/img/proyectos-emprendimiento/Cuadro_Asesorias.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Ciencia y Tecnología",
+    "id": 1,
+    "articles": [
+      {
+        "id": 0,
+        "title": "El ayer, hoy y mañana de SpaceX",
+        "author": "Carlos Arana Mejía",
+        "date": "10/09/2020",
+        "body": "En estos últimos meses, se ha escuchado con gran frecuencia los nombres como SpaceX, cohetes espaciales y viajes al espacio. Pero, ¿quién está detrás de todos estos nombres mencionados? Para ponernos en contexto se mencionará primero al hombre capaz de conectar y de darnos una mejor idea acerca de estos términos. Elon Reeve Musk físico, inventor y empresario nacido en Pretoria, Sudáfrica; cuenta con una gran capacidad empresarial y de emprendimiento. Esto, ya que con 30 años de edad era copropietario de 2 empresas digitales con una valiosa demanda en el mercado. No obstante, a pesar de ser millonario a temprana edad y teniendo la opción de dejar de trabajar para “tener una buena vida”, Musk decidió utilizar el capital que tenía para hacer su sueño realidad: llevar al humano a Marte y colonizar ese planeta. La meta para él estaba bastante clara; sin embargo, encontraba una gran interrogante: ¿cómo llevar al humano al espacio y luego enrumbarlo a Marte?",
+        "img-url": "https://www.revistapiso11.com/img/ciencia-tecnologia/Imagen1.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Vida UTEC",
+    "id": 2,
+    "articles": []
+  },
+  {
+    "name": "Vida UTEC",
+    "id": 3,
+    "articles": []
+  },
+  {
+    "name": "Actualidad",
+    "id": 4,
+    "articles": []
+  },
+  {
+    "name": "Cultura",
+    "id": 5,
+    "articles": []
+  }
+]
