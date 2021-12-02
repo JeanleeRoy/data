@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Cake Terciopelo Rojo",
+        "description": "Cake Terciopelo Rojo",
+        "prices": {
+            "base": 83
+        },
+        "images": [
+            {
+                "src": "img/home/cake-003.jpg",
+                "alt": ""
+            }
+        ]
+    },
+    {
+        "name": "Mini Choco Birthday Cake",
+        "description": "Mini Choco Birthday Cake",
+        "prices": {
+            "base": 83
+        },
+        "images": [
+            {
+                "src": "img/home/cake-002.jpg",
+                "alt": ""
+            }
+        ]
+    },
+    {
+        "name": "Torta Floral",
+        "description": "",
+        "prices": {
+            "base": 83
+        },
+        "images": [
+            {
+                "src": "img/products/cake-007.jpg",
+                "alt": ""
+            }
+        ]
+    },
+    {
+        "name": "Torta 3 leches Classic",
+        "description": "",
+        "prices": {
+            "base": 83
+        },
+        "images": [
+            {
+                "src": "img/products/cake-006.jpg",
+                "alt": ""
+            }
+        ]
+    },
+    {
+        "name": "Kitkat Pig cake",
+        "description": "",
+        "prices": {
+            "base": 83
+        },
+        "images": [
+            {
+                "src": "img/products/cake-005.jpg",
+                "alt": ""
+            }
+        ]
+    },
+    {
+        "name": "Torta 2 gallos",
+        "description": "",
+        "prices": {
+            "base": 83
+        },
+        "images": [
+            {
+                "src": "img/products/cake-004.jpg",
+                "alt": ""
+            }
+        ]
+    }
+]
