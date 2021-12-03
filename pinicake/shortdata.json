@@ -3,7 +3,18 @@
         "name": "Cake Terciopelo Rojo",
         "description": "Cake Terciopelo Rojo",
         "prices": {
-            "base": 83
+            "base": 80
+        },
+        "sizes_detail": {
+            "small": {
+                "state": true
+            },
+            "medium": {
+                "state": true
+            },
+            "big": {
+                "state": true
+            }
         },
         "images": [
             {
@@ -20,13 +31,31 @@
             "naranja": false,
             "marmoleado": false,
             "infantil": false
+        },
+        "fillings": {
+            "fudge": true,
+            "manjar_blanco": true,
+            "ganache": false,
+            "mermelada": false,
+            "chantilly": true
         }
     },
     {
         "name": "Mini Choco Birthday Cake",
         "description": "Mini Choco Birthday Cake",
         "prices": {
-            "base": 83
+            "base": 72
+        },
+        "sizes_detail": {
+            "small": {
+                "state": true
+            },
+            "medium": {
+                "state": true
+            },
+            "big": {
+                "state": false
+            }
         },
         "images": [
             {
@@ -43,13 +72,31 @@
             "naranja": false,
             "marmoleado": false,
             "infantil": false
+        },
+        "fillings": {
+            "fudge": true,
+            "manjar_blanco": true,
+            "ganache": false,
+            "mermelada": false,
+            "chantilly": true
         }
     },
     {
         "name": "Torta Floral",
         "description": "",
         "prices": {
-            "base": 83
+            "base": 80
+        },
+        "sizes_detail": {
+            "small": {
+                "state": false
+            },
+            "medium": {
+                "state": true
+            },
+            "big": {
+                "state": false
+            }
         },
         "images": [
             {
@@ -66,13 +113,31 @@
             "naranja": true,
             "marmoleado": true,
             "infantil": false
+        },
+        "fillings": {
+            "fudge": true,
+            "manjar_blanco": true,
+            "ganache": false,
+            "mermelada": false,
+            "chantilly": true
         }
     },
     {
         "name": "Torta 3 leches Classic",
         "description": "",
         "prices": {
-            "base": 83
+            "base": 85
+        },
+        "sizes_detail": {
+            "small": {
+                "state": false
+            },
+            "medium": {
+                "state": false
+            },
+            "big": {
+                "state": true
+            }
         },
         "images": [
             {
@@ -89,13 +154,31 @@
             "naranja": false,
             "marmoleado": false,
             "infantil": false
+        },
+        "fillings": {
+            "fudge": true,
+            "manjar_blanco": true,
+            "ganache": false,
+            "mermelada": false,
+            "chantilly": true
         }
     },
     {
         "name": "Kitkat Pig cake",
         "description": "",
         "prices": {
-            "base": 83
+            "base": 78
+        },
+        "sizes_detail": {
+            "small": {
+                "state": false
+            },
+            "medium": {
+                "state": true
+            },
+            "big": {
+                "state": true
+            }
         },
         "images": [
             {
@@ -112,13 +195,31 @@
             "naranja": false,
             "marmoleado": false,
             "infantil": false
+        },
+        "fillings": {
+            "fudge": true,
+            "manjar_blanco": true,
+            "ganache": false,
+            "mermelada": false,
+            "chantilly": true
         }
     },
     {
         "name": "Torta 2 gallos",
         "description": "",
         "prices": {
-            "base": 83
+            "base": 80
+        },
+        "sizes_detail": {
+            "small": {
+                "state": true
+            },
+            "medium": {
+                "state": true
+            },
+            "big": {
+                "state": false
+            }
         },
         "images": [
             {
@@ -135,6 +236,13 @@
             "naranja": false,
             "marmoleado": false,
             "infantil": false
+        },
+        "fillings": {
+            "fudge": true,
+            "manjar_blanco": true,
+            "ganache": false,
+            "mermelada": false,
+            "chantilly": true
         }
     }
 ]
