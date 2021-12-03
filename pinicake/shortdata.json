@@ -37,7 +37,7 @@
             "manjar_blanco": true,
             "ganache": false,
             "mermelada": false,
-            "chantilly": true
+            "chantilly": false
         }
     },
     {
@@ -74,11 +74,11 @@
             "infantil": false
         },
         "fillings": {
-            "fudge": true,
+            "fudge": false,
             "manjar_blanco": true,
             "ganache": false,
-            "mermelada": false,
-            "chantilly": true
+            "mermelada": true,
+            "chantilly": false
         }
     },
     {
@@ -116,7 +116,7 @@
         },
         "fillings": {
             "fudge": true,
-            "manjar_blanco": true,
+            "manjar_blanco": false,
             "ganache": false,
             "mermelada": false,
             "chantilly": true
@@ -156,11 +156,11 @@
             "infantil": false
         },
         "fillings": {
-            "fudge": true,
+            "fudge": false,
             "manjar_blanco": true,
             "ganache": false,
             "mermelada": false,
-            "chantilly": true
+            "chantilly": false
         }
     },
     {
@@ -197,11 +197,11 @@
             "infantil": false
         },
         "fillings": {
-            "fudge": true,
+            "fudge": false,
             "manjar_blanco": true,
-            "ganache": false,
-            "mermelada": false,
-            "chantilly": true
+            "ganache": true,
+            "mermelada": true,
+            "chantilly": false
         }
     },
     {
@@ -240,9 +240,9 @@
         "fillings": {
             "fudge": true,
             "manjar_blanco": true,
-            "ganache": false,
+            "ganache": true,
             "mermelada": false,
-            "chantilly": true
+            "chantilly": false
         }
     }
 ]
