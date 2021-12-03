@@ -10,7 +10,17 @@
                 "src": "img/home/cake-003.jpg",
                 "alt": ""
             }
-        ]
+        ],
+        "flavors": {
+            "chocolate": false,
+            "vainilla": true,
+            "vainilla_chocochip": false,
+            "red_velvet": true,
+            "zanahoria": false,
+            "naranja": false,
+            "marmoleado": false,
+            "infantil": false
+        }
     },
     {
         "name": "Mini Choco Birthday Cake",
@@ -23,7 +33,17 @@
                 "src": "img/home/cake-002.jpg",
                 "alt": ""
             }
-        ]
+        ],
+        "flavors": {
+            "chocolate": true,
+            "vainilla": true,
+            "vainilla_chocochip": true,
+            "red_velvet": false,
+            "zanahoria": false,
+            "naranja": false,
+            "marmoleado": false,
+            "infantil": false
+        }
     },
     {
         "name": "Torta Floral",
@@ -36,7 +56,17 @@
                 "src": "img/products/cake-007.jpg",
                 "alt": ""
             }
-        ]
+        ],
+        "flavors": {
+            "chocolate": true,
+            "vainilla": true,
+            "vainilla_chocochip": true,
+            "red_velvet": false,
+            "zanahoria": true,
+            "naranja": true,
+            "marmoleado": true,
+            "infantil": false
+        }
     },
     {
         "name": "Torta 3 leches Classic",
@@ -49,7 +79,17 @@
                 "src": "img/products/cake-006.jpg",
                 "alt": ""
             }
-        ]
+        ],
+        "flavors": {
+            "chocolate": true,
+            "vainilla": true,
+            "vainilla_chocochip": false,
+            "red_velvet": false,
+            "zanahoria": false,
+            "naranja": false,
+            "marmoleado": false,
+            "infantil": false
+        }
     },
     {
         "name": "Kitkat Pig cake",
@@ -62,7 +102,17 @@
                 "src": "img/products/cake-005.jpg",
                 "alt": ""
             }
-        ]
+        ],
+        "flavors": {
+            "chocolate": true,
+            "vainilla": true,
+            "vainilla_chocochip": false,
+            "red_velvet": false,
+            "zanahoria": false,
+            "naranja": false,
+            "marmoleado": false,
+            "infantil": false
+        }
     },
     {
         "name": "Torta 2 gallos",
@@ -75,6 +125,16 @@
                 "src": "img/products/cake-004.jpg",
                 "alt": ""
             }
-        ]
+        ],
+        "flavors": {
+            "chocolate": true,
+            "vainilla": true,
+            "vainilla_chocochip": false,
+            "red_velvet": false,
+            "zanahoria": true,
+            "naranja": false,
+            "marmoleado": false,
+            "infantil": false
+        }
     }
 ]
