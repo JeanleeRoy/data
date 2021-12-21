@@ -1,7 +1,7 @@
 [
     {
         "name": "Cake Terciopelo Rojo",
-        "description": "Cake Terciopelo Rojo",
+        "description": "Hermoso y fresco cake terciopelo rojo relleno de frutos y decorado con crema chantillí.",
         "prices": {
             "base": 80
         },
@@ -43,7 +43,7 @@
     },
     {
         "name": "Mini Choco Birthday Cake",
-        "description": "Mini Choco Birthday Cake",
+        "description": "¿Quieres algun detalle para celebrar? <br> Todo para regalarle en su día a ésa personita especial.",
         "prices": {
             "base": 72
         },
@@ -82,6 +82,48 @@
             "chantilly": false
         },
         "slug": "mini_choco_birthday_cake"
+    },
+    {
+        "name": "Mini Chessecake Oreo",
+        "description": "Base de galleta oreo relleno con queso crema, cubierta de ganache. Topings de galletas y fudge.",
+        "prices": {
+            "base": 47.50
+        },
+        "sizes_detail": {
+            "small": {
+                "state": true
+            },
+            "medium": {
+                "state": true
+            },
+            "big": {
+                "state": false
+            }
+        },
+        "images": [
+            {
+                "src": "img/home/cake-001.jpg",
+                "alt": ""
+            }
+        ],
+        "flavors": {
+            "chocolate": true,
+            "vainilla": false,
+            "vainilla_chocochip": true,
+            "red_velvet": false,
+            "zanahoria": false,
+            "naranja": false,
+            "marmoleado": false,
+            "infantil": false
+        },
+        "fillings": {
+            "fudge": false,
+            "manjar_blanco": true,
+            "ganache": false,
+            "mermelada": true,
+            "chantilly": false
+        },
+        "slug": "mini_chessecake_oreo"
     },
     {
         "name": "Torta Floral",
