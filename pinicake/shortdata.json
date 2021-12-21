@@ -34,10 +34,10 @@
         },
         "fillings": {
             "fudge": true,
-            "manjar_blanco": true,
+            "manjar_blanco": false,
             "ganache": false,
             "mermelada": false,
-            "chantilly": false
+            "chantilly": true
         },
         "slug": "cake_terciopelo_rojo"
     },
