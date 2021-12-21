@@ -38,7 +38,8 @@
             "ganache": false,
             "mermelada": false,
             "chantilly": false
-        }
+        },
+        "slug": "cake_terciopelo_rojo"
     },
     {
         "name": "Mini Choco Birthday Cake",
@@ -79,7 +80,8 @@
             "ganache": false,
             "mermelada": true,
             "chantilly": false
-        }
+        },
+        "slug": "mini_choco_birthday_cake"
     },
     {
         "name": "Torta Floral",
@@ -120,7 +122,8 @@
             "ganache": false,
             "mermelada": false,
             "chantilly": true
-        }
+        },
+        "slug": "torta_floral"
     },
     {
         "name": "Torta 3 leches Classic",
@@ -161,7 +164,8 @@
             "ganache": false,
             "mermelada": false,
             "chantilly": false
-        }
+        },
+        "slug": "torta_tres_leches_classic"
     },
     {
         "name": "Kitkat Pig cake",
@@ -202,7 +206,8 @@
             "ganache": true,
             "mermelada": true,
             "chantilly": false
-        }
+        },
+        "slug": "kitkat_pig_cake"
     },
     {
         "name": "Torta 2 gallos",
@@ -243,6 +248,7 @@
             "ganache": true,
             "mermelada": false,
             "chantilly": false
-        }
+        },
+        "slug": "torta_dos_gallos"
     }
 ]
